@@ -44,5 +44,5 @@ Features not yet working (incomplete list) - Todo list:
 Install Via Zip mode in XBMC.
 
 ### Download:
-XWMM master.zip [click here to download](https://github.com/slash2009/XWMM/archive/master.zip "Title")
+XWMM Gotham-Pre-3.0.1.zip [click here to download](https://github.com/slash2009/XWMM/archive/v3.0.1-pre.zip "Title")
 - - -
